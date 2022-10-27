@@ -1,3 +1,5 @@
+// books.js - Salma Chaaban - 301216551 - Favorite Booklist
+
 // define the book model
 import booksModel from '../models/books.js';
 
