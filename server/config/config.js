@@ -1,4 +1,4 @@
-// config.js - Salma Chaaban - 301216551 - Favorite Booklist
+// config.js - Salma Chaaban - 301216551 - Favorite Book List
 
 // export const MongoURI = "mongodb://localhost:27017/media";
 export const Secret = "someSecret";
